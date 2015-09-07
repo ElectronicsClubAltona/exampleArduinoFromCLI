@@ -19,7 +19,7 @@
  
  */
 
-#include <WProgram.h>
+//  #include <WProgram.h>     renoved to permit compilation with IDE version 1.6.5 
 
 int ledPin =  13;    // LED connected to digital pin 13
 
